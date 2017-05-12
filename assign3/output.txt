@@ -1,0 +1,227 @@
+Thu Dec 10 15:42:08 2015 [INFO] Enabling verbose logging.
+Thu Dec 10 15:42:08 2015 [INFO] INPUT cmd=INIT tag=128 #blks=0 start-blk=0 data=X
+Thu Dec 10 15:42:08 2015 [INFO] OP [** BUS opcode received] = RAID_INIT, disk=17, block id=0, blocks=16, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: Allocating disk array of 285212672 bytes [addr=0x7ff8dafff010].
+Thu Dec 10 15:42:09 2015 [INFO] RAID: Disks initialized [17 disks, 16384 blocks/disk]
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_INIT, disk=17, block id=0, blocks=16, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=0, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 0 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=0, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=1, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 1 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=1, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=2, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 2 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=2, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=3, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 3 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=3, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=4, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 4 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=4, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=5, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 5 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=5, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=6, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] RAID: disk 6 formatted (16777216 bytes).
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=6, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:09 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=7, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] RAID: disk 7 formatted (16777216 bytes).
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=7, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=8, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] RAID: disk 8 formatted (16777216 bytes).
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=8, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=9, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] RAID: disk 9 formatted (16777216 bytes).
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=9, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=10, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] RAID: disk 10 formatted (16777216 bytes).
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=10, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=11, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] RAID: disk 11 formatted (16777216 bytes).
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=11, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:10 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=12, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: disk 12 formatted (16777216 bytes).
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=12, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=13, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: disk 13 formatted (16777216 bytes).
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=13, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=14, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: disk 14 formatted (16777216 bytes).
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=14, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=15, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: disk 15 formatted (16777216 bytes).
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=15, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_FORMAT, disk=16, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: disk 16 formatted (16777216 bytes).
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_FORMAT, disk=16, block id=0, blocks=0, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE: initialized storage (maxline=128)
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=7 #blks=5 start-blk=0 data=t8FQQ
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=13, block id=0, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 5120 bytes to disk/block (13/0) [0x6104c0 -> 0x7ff8e7fff010] data=[116]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=13, block id=0, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=14, block id=0, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 5120 bytes to disk/block (14/0) [0x6104c0 -> 0x7ff8e8fff010] data=[116]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=14, block id=0, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 5 blocks to tagline 7, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=61 #blks=1 start-blk=0 data=Z
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=9, block id=896, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 1024 bytes to disk/block (9/896) [0x6104c0 -> 0x7ff8e40df010] data=[90]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=9, block id=896, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=10, block id=896, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 1024 bytes to disk/block (10/896) [0x6104c0 -> 0x7ff8e50df010] data=[90]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=10, block id=896, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 1 blocks to tagline 61, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=9 #blks=8 start-blk=0 data=7dAYrmQa
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=1, block id=128, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (1/128) [0x6104c0 -> 0x7ff8dc01f010] data=[55]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=1, block id=128, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=2, block id=128, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (2/128) [0x6104c0 -> 0x7ff8dd01f010] data=[55]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=2, block id=128, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 8 blocks to tagline 9, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=104 #blks=4 start-blk=0 data=Ik0P
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=15, block id=1664, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 4096 bytes to disk/block (15/1664) [0x6104c0 -> 0x7ff8ea19f010] data=[73]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=15, block id=1664, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=16, block id=1664, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 4096 bytes to disk/block (16/1664) [0x6104c0 -> 0x7ff8eb19f010] data=[73]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=16, block id=1664, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 4 blocks to tagline 104, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=1 #blks=1 start-blk=0 data=N
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=1, block id=0, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 1024 bytes to disk/block (1/0) [0x6104c0 -> 0x7ff8dbfff010] data=[78]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=1, block id=0, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=2, block id=0, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 1024 bytes to disk/block (2/0) [0x6104c0 -> 0x7ff8dcfff010] data=[78]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=2, block id=0, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 1 blocks to tagline 1, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=51 #blks=5 start-blk=0 data=Gazaa
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=5, block id=768, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 5120 bytes to disk/block (5/768) [0x6104c0 -> 0x7ff8e00bf010] data=[71]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=5, block id=768, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=6, block id=768, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 5120 bytes to disk/block (6/768) [0x6104c0 -> 0x7ff8e10bf010] data=[71]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=6, block id=768, blocks=5, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 5 blocks to tagline 51, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=51 #blks=7 start-blk=5 data=VInfwDB
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=5, block id=773, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 7168 bytes to disk/block (5/773) [0x6104c0 -> 0x7ff8e00c0410] data=[86]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=5, block id=773, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=6, block id=773, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 7168 bytes to disk/block (6/773) [0x6104c0 -> 0x7ff8e10c0410] data=[86]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=6, block id=773, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 7 blocks to tagline 51, starting block 5.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=125 #blks=1 start-blk=0 data=n
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=9, block id=1920, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 1024 bytes to disk/block (9/1920) [0x6104c0 -> 0x7ff8e41df010] data=[110]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=9, block id=1920, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=10, block id=1920, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 1024 bytes to disk/block (10/1920) [0x6104c0 -> 0x7ff8e51df010] data=[110]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=10, block id=1920, blocks=1, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 1 blocks to tagline 125, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=5 #blks=10 start-blk=0 data=H4x07tXKXZ
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=9, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (9/0) [0x6104c0 -> 0x7ff8e3fff010] data=[72]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=9, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=10, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (10/0) [0x6104c0 -> 0x7ff8e4fff010] data=[72]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=10, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 10 blocks to tagline 5, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=93 #blks=9 start-blk=0 data=cNPr7oEfb
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=9, block id=1408, blocks=9, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 9216 bytes to disk/block (9/1408) [0x6104c0 -> 0x7ff8e415f010] data=[99]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=9, block id=1408, blocks=9, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=10, block id=1408, blocks=9, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 9216 bytes to disk/block (10/1408) [0x6104c0 -> 0x7ff8e515f010] data=[99]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=10, block id=1408, blocks=9, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 9 blocks to tagline 93, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=19 #blks=10 start-blk=0 data=0pIHwTytfV
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=5, block id=256, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (5/256) [0x6104c0 -> 0x7ff8e003f010] data=[48]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=5, block id=256, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=6, block id=256, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (6/256) [0x6104c0 -> 0x7ff8e103f010] data=[48]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=6, block id=256, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 10 blocks to tagline 19, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=23 #blks=8 start-blk=0 data=bOncXohs
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=13, block id=256, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (13/256) [0x6104c0 -> 0x7ff8e803f010] data=[98]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=13, block id=256, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=14, block id=256, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (14/256) [0x6104c0 -> 0x7ff8e903f010] data=[98]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=14, block id=256, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 8 blocks to tagline 23, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=28 #blks=8 start-blk=0 data=2TRx0Hlc
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=7, block id=384, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (7/384) [0x6104c0 -> 0x7ff8e205f010] data=[50]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=7, block id=384, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=8, block id=384, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (8/384) [0x6104c0 -> 0x7ff8e305f010] data=[50]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=8, block id=384, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 8 blocks to tagline 28, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=38 #blks=3 start-blk=0 data=kmd
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=11, block id=512, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 3072 bytes to disk/block (11/512) [0x6104c0 -> 0x7ff8e607f010] data=[107]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=11, block id=512, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=12, block id=512, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 3072 bytes to disk/block (12/512) [0x6104c0 -> 0x7ff8e707f010] data=[107]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=12, block id=512, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 3 blocks to tagline 38, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=47 #blks=7 start-blk=0 data=IzU0xW1
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=13, block id=640, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 7168 bytes to disk/block (13/640) [0x6104c0 -> 0x7ff8e809f010] data=[73]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=13, block id=640, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=14, block id=640, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 7168 bytes to disk/block (14/640) [0x6104c0 -> 0x7ff8e909f010] data=[73]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=14, block id=640, blocks=7, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 7 blocks to tagline 47, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=78 #blks=10 start-blk=0 data=9gXhv8RwuA
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=11, block id=1152, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (11/1152) [0x6104c0 -> 0x7ff8e611f010] data=[57]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=11, block id=1152, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=12, block id=1152, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (12/1152) [0x6104c0 -> 0x7ff8e711f010] data=[57]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=12, block id=1152, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 10 blocks to tagline 78, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=57 #blks=8 start-blk=0 data=M7vX8pmQ
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=1, block id=896, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (1/896) [0x6104c0 -> 0x7ff8dc0df010] data=[77]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=1, block id=896, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=2, block id=896, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 8192 bytes to disk/block (2/896) [0x6104c0 -> 0x7ff8dd0df010] data=[77]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=2, block id=896, blocks=8, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 8 blocks to tagline 57, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=4 #blks=10 start-blk=0 data=5myABikKJl
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=7, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (7/0) [0x6104c0 -> 0x7ff8e1fff010] data=[53]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=7, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=8, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 10240 bytes to disk/block (8/0) [0x6104c0 -> 0x7ff8e2fff010] data=[53]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=8, block id=0, blocks=10, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 10 blocks to tagline 4, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=70 #blks=4 start-blk=0 data=fydb
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=11, block id=1024, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 4096 bytes to disk/block (11/1024) [0x6104c0 -> 0x7ff8e60ff010] data=[102]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=11, block id=1024, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=12, block id=1024, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 4096 bytes to disk/block (12/1024) [0x6104c0 -> 0x7ff8e70ff010] data=[102]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=12, block id=1024, blocks=4, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 4 blocks to tagline 70, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=WRITE tag=97 #blks=3 start-blk=0 data=y5G
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=1, block id=1536, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 3072 bytes to disk/block (1/1536) [0x6104c0 -> 0x7ff8dc17f010] data=[121]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=1, block id=1536, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_WRITE, disk=2, block id=1536, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: wrote 3072 bytes to disk/block (2/1536) [0x6104c0 -> 0x7ff8dd17f010] data=[121]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_WRITE, disk=2, block id=1536, blocks=3, status=0
+Thu Dec 10 15:42:11 2015 [INFO] TAGLINE : wrote 3 blocks to tagline 97, starting block 0.
+Thu Dec 10 15:42:11 2015 [INFO] INPUT cmd=READ tag=23 #blks=2 start-blk=5 data=oh
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode received] = RAID_READ, disk=14, block id=261, blocks=2, status=0
+Thu Dec 10 15:42:11 2015 [INFO] RAID: read 2048 bytes from disk/block (14/261) [0x7ff8e9040410 -> 0x6504c0] data=[111]
+Thu Dec 10 15:42:11 2015 [INFO] OP [** BUS opcode response] = RAID_READ, disk=14, block id=261, blocks=2, status=0
+Thu Dec 10 15:42:11 2015 [ERROR] READ failed on tagline storage device (23)
+Thu Dec 10 15:42:11 2015 [INFO] Read confirmation: tagline=23, start=5, blocks=2
+Thu Dec 10 15:42:11 2015 [ERROR] RAID system failed, aborting [1]
+Thu Dec 10 15:42:11 2015 [INFO] Tagline simulation failed.
+
